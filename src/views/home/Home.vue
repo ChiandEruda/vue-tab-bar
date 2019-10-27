@@ -1,5 +1,7 @@
 <template>
-  <div>首页</div>
+<div class="showImage">
+  <img src="../../assets/img/tabbar/home_active.svg" alt="">
+</div>
 </template>
 
 <script>

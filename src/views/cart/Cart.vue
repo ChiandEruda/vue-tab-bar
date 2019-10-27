@@ -1,5 +1,7 @@
 <template>
-  
+<div class="showImage">
+  <img src="../../assets/img/tabbar/cart_active.svg" alt="">
+</div>
 </template>
 
 <script>

@@ -1,5 +1,7 @@
 <template>
-  <div>分类</div>
+<div class="showImage">
+  <img src="../../assets/img/tabbar/category_active.svg" alt="">
+</div>
 </template>
 
 <script>

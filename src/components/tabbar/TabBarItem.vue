@@ -13,7 +13,7 @@ export default {
       path: String,
       activeColor: {
         type: String,
-        default: 'red',
+        default: '#d81e06',
       }
     },
     data() {
@@ -54,7 +54,7 @@ export default {
       vertical-align: middle;
   }
 
-  .active {
+  /* .active {
     color: #d81e06;
-  }
+  } */
 </style>
