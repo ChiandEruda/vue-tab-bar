@@ -1,6 +1,6 @@
 # vue-tab-bar
 
-![img](src/assets/img/tabbar/tabbar.gif)
+<img src="src/assets/img/tabbar/tabbar.gif" width=200/>
 
 ## Project setup
 ```
