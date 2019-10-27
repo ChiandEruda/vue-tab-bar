@@ -1,5 +1,7 @@
 # vue-tab-bar
 
+![img](src/assets/img/tabbar/tabbar.gif)
+
 ## Project setup
 ```
 npm install
